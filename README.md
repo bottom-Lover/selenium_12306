@@ -5,8 +5,7 @@
 
 下载与运行之前需知：
 （1）安装依赖包：
-  pip install splinter
-  pip install configparser
+  pip install splinter,configparser
 （2）下载chromedriver驱动：
   参考 https://chromedriver.storage.googleapis.com/index.html 此界面下载（注意下载的版本与你使用的版本保持一致）
 
